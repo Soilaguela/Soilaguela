@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Olá, sou a Soila Benguela!🐾
-<p>🌱Estou atualmente no mestrado em Computação Móvel .</p>
-<p>🌱No final da Licenciatura em Engenharia Informática .</p>
-<p>⚡Gosto de tudo e um pouco , mais prefiro front-end.😑</p>
+
 
 ##
 <div align="left">
