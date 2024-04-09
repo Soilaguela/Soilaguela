@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 
 ##
-<div align="left">
+<!---<div align="left">
   <a href="https://github.com/Soilaguela">
   <img height="180em" style="color: #731768;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soilaguela&layout=compact&langs_count=7&theme=lighthaus">
-</div>
+</div>-->
   
 ##
   
