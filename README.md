@@ -38,5 +38,5 @@ Je suis une développeuse passionnée par la technologie et l'innovation, avec u
 </div>
 
 
-![Snake animation](https://github.com/Soilaguela/Soilaguela/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/Soilaguela/Soilaguela/blob/output/github-contribution-grid-snake.svg)-->
 <!--![snake animation](https://github.com/Soilaguela/Soilaguela/blob/output/github-contribution-grid-snake2.svg)-->
