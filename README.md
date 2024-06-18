@@ -1,4 +1,4 @@
-# Olá, sou a Soila Benguela! 🐾 | # Bonjour, je suis Soila Benguela! 🐾
+# Olá, sou a Soila Benguela! 🐾| # Bonjour, je suis Soila Benguela! 🐾
 
 ## Bem-vindo ao meu perfil GitHub! 👋 | ## Bienvenue sur mon profil GitHub! 👋
 
